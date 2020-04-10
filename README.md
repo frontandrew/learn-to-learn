@@ -6,7 +6,7 @@
 
 Hi! And wellcome. 
 
-[![LearnToLearn screenshot](https://1.downloader.disk.yandex.ru/preview/9f49f974f0aaa61598dc7e86b9923ec31d5281e2b860afd8c00a5f4d4a3436b0/inf/m6IRaeKEMpPC59T6OT5xudT5VNCP6R03Y0s1LP2Fu7ZJdqlcEgMCRSP42TlCwTYIp2GGc5Z_c_zMPj46XRp0TQ%3D%3D?uid=113710371&filename=2020-03-28%2012-41-33%20%D0%9D%D0%B0%D1%83%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F%20%D1%83%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F%20v6%20-%20Google%20Chrome.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=113710371&tknv=v2&size=1903x937 "github.io/learn-to-learn")](https://frontandrew.github.io/learn-to-learn/)
+[![LearnToLearn screenshot](https://s228vla.storage.yandex.net/rdisk/f1321c11951a673aa9c796d796bc4c53ccb20c042263b77d0d6c8500e6e3e200/5e904efb/_C7D2e-MUd2uS1XKD63ntgJ7XG1kFXn94bo8mZLIKLEIkHFXUjLfmsFIY59tCsT6f1ed_cchHOXah9ogGvTNWg==?uid=113710371&filename=2020-03-28+12-41-33+%D0%9D%D0%B0%D1%83%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F+%D1%83%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F+v6+-+Google+Chrome.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&owner_uid=113710371&hid=5dbaa56141cb7e6d2bd23f364f1af234&media_type=image&etag=a2491734ac0e9dc61ddbe361eb7dd722&fsize=63794&rtoken=TWm4rXJu6nuk&force_default=yes&ycrid=na-41ab50c624d42e632df7949b0cad616c-downloader14h&ts=5a2ed792574c0&s=68a098cd40bdd6ae5ae37e7778c67ea193fdbc3b169d24cc2e126d24e5b8ee21&pb=U2FsdGVkX1_noSBEfp14YlSvPsalOlWPbFC1LyzG-CerIE7Pi-Nocsc6kGjVA00A81ln4QKGnUCSgG4yr7CtSKvaLlCcDYNlBKdivHIBmfQ "github.io/learn-to-learn")](https://frontandrew.github.io/learn-to-learn/)
 
 'LearnToLearn' is a project for base site layout.
 
