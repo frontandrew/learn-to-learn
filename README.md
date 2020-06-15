@@ -12,7 +12,7 @@ Hi! And wellcome.
 
 </div>
 
-'LearnToLearn' is a project for base site layout.
+'LearnToLearn' is a project for base site layout. You can [try it now](https://frontandrew.github.io/learn-to-learn/).
 
 ---
 
